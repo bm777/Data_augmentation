@@ -1,0 +1,9 @@
+MANIFEST.in
+README.md
+setup.py
+assets/original.png
+assets/result.png
+opendt.egg-info/PKG-INFO
+opendt.egg-info/SOURCES.txt
+opendt.egg-info/dependency_links.txt
+opendt.egg-info/top_level.txt

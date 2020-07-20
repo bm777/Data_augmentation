@@ -1,0 +1,60 @@
+Metadata-Version: 2.1
+Name: opendt
+Version: 1.1
+Summary: Librairy to make a data augmmentation using tensorflow2.x and python3.x
+Home-page: https://github.com/bm777/Data_augmentation
+Author: BAYANGMBE MOUNMO
+Author-email: bayangp0@gmail.com
+License: UNKNOWN
+Description: # Make a data augmentation with tensorflow and python
+        
+        Write your own data augmentation with tensorflow2 and python 3
+        
+        # Librairies used:
+         - [x] Python 3.6
+         - [x] Tensorflow 2.1.0
+         - [x] Matplotlib 3
+         - [x] Tensorflow_docs
+         - [x] PIL
+         - [x] Brain :)
+        
+        
+        ### How to have it
+        make sure that you have tensorflow installed on your machine(Laptop). For my case, I have it on ubuntu 18.04.
+        The best way for you to install dependencies, it is virtualenvwrapper. How to install it in 1 minute -> [VIDEO](https://youtu.be/Tl3q8Wm0jvI)
+        ```
+        #for dependencies:
+        pip install -r requirements.txt
+        
+        #clone it by typing:
+        git clone https://github.com/bm777/Data_augmentation.git
+        cd Data_augmentation
+        
+        #run it by typing:
+        python3 Data_augment.py
+        ```
+        
+        ### Result of augmentation
+        ![Data augment](assets/result.png)
+        
+        
+        ### View of original image
+        ![Data augment](assets/original.png)
+        
+        
+        ### Credict
+        [TF: tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
