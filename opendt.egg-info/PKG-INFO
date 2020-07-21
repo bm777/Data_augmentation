@@ -45,7 +45,7 @@ Description: # Make a data augmentation with tensorflow and python
         ### Credict
         [TF: tensorflow](https://www.tensorflow.org/tutorials/images/data_augmentation)
 Platform: UNKNOWN
-Classifier: Development Status :: 4 - Alpha
+Classifier: Development Status :: 3 - Alpha
 Classifier: Intended Audience :: Developers
 Classifier: Topic :: Software Development :: Build Tools
 Classifier: License :: OSI Approved :: MIT License
